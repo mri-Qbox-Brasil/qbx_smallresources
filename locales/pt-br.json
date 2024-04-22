@@ -1,6 +1,6 @@
 {
    "error": {
-      "canceled": "Cancelado..",
+      "canceled": "Cancelado...",
       "cruise_control_disabled": "Controle de cruzeiro desativado",
       "cruise_control_unavailable": "Controle de cruzeiro indisponível",
       "deleted_recording": "Gravação deletada!",
@@ -15,18 +15,18 @@
       "stress_relief": "Sentindo menos estresse!"
    },
    "progress": {
-      "eating": "Comendo..",
-      "drinking": "Bebendo..",
-      "drinking_liquor": "Bebendo bebida alcoólica..",
-      "quick_sniff": "Cheirada rápida..",
-      "smoking_crack": "Fumando crack..",
-      "popping_pills": "Engolindo comprimidos..",
-      "healing": "Curando..",
-      "smoking_meth": "Fumando metanfetamina..",
-      "lighting_joint": "Acendendo baseado.."
+      "eating": "Comendo...",
+      "drinking": "Bebendo...",
+      "drinking_liquor": "Bebendo bebida alcoólica...",
+      "quick_sniff": "Cheirada rápida...",
+      "smoking_crack": "Fumando crack...",
+      "popping_pills": "Engolindo comprimidos...",
+      "healing": "Curando...",
+      "smoking_meth": "Fumando metanfetamina...",
+      "lighting_joint": "Acendendo baseado..."
    },
    "info": {
       "minutes": "minutos",
-      "seconds": "segundos.."
+      "seconds": "segundos..."
    }
 }
