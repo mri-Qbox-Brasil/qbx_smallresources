@@ -6,7 +6,7 @@ return {
         -- https://docs.fivem.net/docs/game-references/controls/
         controls = {37},
 
-        -- False disables ammo display
-        displayAmmo = true,
+        -- the small white dot in the middle of the screen when aiming with a weapon.
+        recticle = true,
     }
 }
